@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/civicpulse
     username: postgres
-    password: Sanjana@12
+    password: 
 
   jpa:
     hibernate:
